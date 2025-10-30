@@ -1,4 +1,4 @@
-# Python class
+# Python Workshop
 16 Oct 2025 - Workshop 01
 
 23 Oct 2025 - Workshop 02
